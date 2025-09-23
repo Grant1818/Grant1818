@@ -1,6 +1,6 @@
-# Hi 👋, I'm [Your Name]
+# Hi 👋, I'm [Grant hardie]
 
-A passionate computer science student at [Your University]
+A dedicated computer science major at [Abilene Christian University] with a focus on Software Development
 
 - 🌱 I’m currently learning **Software Development**
 - 📫 How to reach me: [tgh22b@acu.edu](mailto:tgh22b@acu.edu)
