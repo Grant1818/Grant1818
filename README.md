@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋, I'm [Your Name]
 
-<!--
-**Grant1818/Grant1818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate computer science student at [Your University]
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Software Development**
+- 📫 How to reach me: [tgh22b@acu.edu](mailto:tgh22b@acu.edu)
+- 💼 Know about my work experience: [LinkedIn](https://www.linkedin.com/in/grant-hardie-3a2923259/)
+- ⚡ Fun fact: I love [Fitness] and [Sports]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grant-hardie-3a2923259/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tgh22b@acu.edu)
+
+### Languages and Tools:
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+</p>
+
